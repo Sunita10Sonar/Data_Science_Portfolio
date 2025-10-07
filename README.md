@@ -2,63 +2,60 @@
 I love applying data-driven techniques to uncover insights and build intelligent systems.
 
 🧠 Artificial Intelligence & Deep Learning Projects
-🔹 CNN Image Classifier (Cats vs Dogs)
-Developed a Convolutional Neural Network (CNN) model to classify cat and dog images using PyTorch.
 
-Optimized network using dropout, data augmentation, and adaptive learning rate.
-
-Achieved >90% accuracy on validation data.
+🔹 [CNN Image Classifier (Cats vs Dogs)](https://github.com/Sunita10Sonar/CNN_Image_Classification_Cat_vs_Dog)
+- Developed a Convolutional Neural Network (CNN) model to classify cat and dog images using PyTorch.
+- Optimized network using dropout, data augmentation, and adaptive learning rate.
+- Achieved >90% accuracy on validation data.
 
 Tech Stack: PyTorch, NumPy, Matplotlib, Torchvision.
 
 ---
 
-🔹 Image Recognition Model using PyTorch
-Built an image recognition pipeline leveraging transfer learning with pretrained CNN architectures.
-
-Implemented feature extraction and fine-tuning for improved performance.
-
-Visualized predictions and confusion matrix to evaluate accuracy.
+🔹 [Image Recognition Model using PyTorch](https://github.com/Sunita10Sonar/Image-Recognition-ML-PyTorch)
+- Built an image recognition pipeline leveraging transfer learning with pretrained CNN architectures.
+- Implemented feature extraction and fine-tuning for improved performance.
+- Visualized predictions and confusion matrix to evaluate accuracy.
 
 Tech Stack: Python, PyTorch, Torchvision, Matplotlib.
 
 ---
 
 ⚙️ Machine Learning Projects
-🔹 Credit Card Fraud Detection
-Trained multiple supervised learning models to detect fraudulent transactions.
 
-Used SMOTE, feature scaling, and model evaluation metrics for performance tuning.
+🔹 [Credit Card Fraud Detection](https://github.com/Sunita10Sonar/Credit-Card-Fraud-Detection)
+- Trained multiple supervised learning models to detect fraudulent transactions.
+- Used SMOTE, feature scaling, and model evaluation metrics for performance tuning.
 
 Tech Stack: Python, Pandas, Scikit-learn, XGBoost.
 
 ---
 
 📊 Data Visualization & BI Dashboards
-🔹 Earthquake Impact Dashboard (Tableau)
-Created an interactive Tableau dashboard showing seismic event impacts by region.
 
-Focused on earthquake frequency, magnitude, and global trends.
+🔹 [Earthquake Impact Dashboard (Tableau)](https://github.com/Sunita10Sonar/Earthquake-Dashboard-Tableau)
+- Created an interactive Tableau dashboard showing seismic event impacts by region.
+- Focused on earthquake frequency, magnitude, and global trends.
 
 Tools: Tableau, Geospatial Visualization, Data Cleaning.
 
-🔹 Coffee Chain Sales Dashboard (Power BI)
-Built a Power BI dashboard to analyze sales, profits, and regional performance.
-
-Implemented DAX measures and KPI tracking for actionable insights.
+🔹 [Coffee Chain Sales Dashboard (Power BI)](https://github.com/Sunita10Sonar/Coffee-Sales-PowerBI)
+- Built a Power BI dashboard to analyze sales, profits, and regional performance.
+- Implemented DAX measures and KPI tracking for actionable insights.
 
 Tools: Power BI, Excel, DAX.
 
 ---
 
 📈 EDA & Analytical Projects
-🔹 COVID-19 Data Analysis
-Explored time-series trends and global impact analysis using data visualization.
+
+🔹 [COVID-19 Data Analysis](https://github.com/Sunita10Sonar/Covid-19-Data-Analysis)
+- Explored time-series trends and global impact analysis using data visualization.
 
 Tech Stack: Python, Pandas, Seaborn, Matplotlib.
 
-🔹 Movie Ratings Insights
-Analyzed genre popularity and audience sentiment from movie rating data.
+🔹 [Movie Ratings Insights](https://github.com/Sunita10Sonar/Movie-ratings-analysis)
+- Analyzed genre popularity and audience sentiment from movie rating data.
 
 Tech Stack: Python, Plotly, Pandas.
 
